@@ -12,3 +12,5 @@ the holders in all conditions.
 bottom of the stick and the magnet surface can significantly decrease
 performance. You can sand away extra plastic material after gluing magnets in
 or reduce the gap in the OpenSCAD file.
+* Printed on Taz4 by Lulzbot with no raft, skirt, or brim. Medium or fast
+speed with ABS plastic. 40% infill.
