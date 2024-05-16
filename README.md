@@ -1,5 +1,7 @@
 # Magnetic Control Stick
 
+**THIS PRODUCT HAS BEEN RETIRED AND IS NO LONGER PRODUCED**
+
 ![](photos/product_image.jpg)
 
 Magnet holder for controlling electronic devices. Designed for the
